@@ -1,0 +1,420 @@
+Monitoring started at: Thu Nov 19 07:20:44 PM UTC 2026
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7321
+
+Aircraft BA207 started
+Aircraft PID: 7325
+Aircraft BA207 is flying...
+Aircraft BA207 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7321
+
+Aircraft SQ412 started
+Aircraft PID: 7326
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7321
+
+Aircraft AI101 started
+Aircraft PID: 7324
+Aircraft AI101 is flying...
+Aircraft AI101 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7321
+
+All aircraft have completed their flights.
+ATC Controller shutting down.
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7330
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7330
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7330
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7330
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7333
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7332
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7334
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7332
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7334
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7333
+Status: Flight Completed
+
+All aircraft reports received.
+ATC Controller shutting down.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7337
+
+Aircraft SQ412 started. PID: 7341
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7337
+
+Aircraft BA207 started. PID: 7340
+Aircraft BA207 is flying...
+Aircraft BA207 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7337
+
+Aircraft AI101 started. PID: 7339
+Aircraft AI101 is flying...
+Aircraft AI101 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7337
+
+ATC is monitoring all aircraft.
+Press Ctrl+C to simulate an emergency.
+
+ATC received SIGCHLD notification.
+
+All aircraft processes handled.
+ATC Controller shutting down.
+Monitoring completed at: Thu Nov 19 07:21:03 PM UTC 2026
+Monitoring started at: Thu Nov 19 07:23:35 PM UTC 2026
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7387
+
+Aircraft AI101 started
+Aircraft PID: 7389
+Aircraft AI101 is flying...
+Aircraft AI101 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7387
+
+Aircraft SQ412 started
+Aircraft PID: 7391
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7387
+
+Aircraft BA207 started
+Aircraft PID: 7390
+Aircraft BA207 is flying...
+Aircraft BA207 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7387
+
+All aircraft have completed their flights.
+ATC Controller shutting down.
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7402
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7402
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7402
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7402
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7405
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7407
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7406
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7405
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7406
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7407
+Status: Flight Completed
+
+All aircraft reports received.
+ATC Controller shutting down.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7409
+
+Aircraft SQ412 started. PID: 7413
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7409
+
+Aircraft BA207 started. PID: 7412
+Aircraft BA207 is flying...
+Aircraft BA207 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7409
+
+Aircraft AI101 started. PID: 7411
+Aircraft AI101 is flying...
+Aircraft AI101 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7409
+
+ATC is monitoring all aircraft.
+Press Ctrl+C to simulate an emergency.
+
+ATC received SIGCHLD notification.
+
+All aircraft processes handled.
+ATC Controller shutting down.
+Monitoring completed at: Thu Nov 19 07:23:53 PM UTC 2026
+Monitoring started at: Thu Nov 19 07:29:59 PM UTC 2026
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7522
+
+Aircraft AI101 started
+Aircraft PID: 7524
+Aircraft AI101 is flying...
+Aircraft AI101 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7522
+
+Aircraft BA207 started
+Aircraft PID: 7525
+Aircraft BA207 is flying...
+Aircraft BA207 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7522
+
+Aircraft SQ412 started
+Aircraft PID: 7527
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7522
+
+All aircraft have completed their flights.
+ATC Controller shutting down.
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7540
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7540
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7540
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7540
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7542
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7544
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7543
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7543
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7542
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7544
+Status: Flight Completed
+
+All aircraft reports received.
+ATC Controller shutting down.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7550
+
+Aircraft BA207 started. PID: 7553
+Aircraft BA207 is flying...
+Aircraft BA207 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7550
+
+Aircraft AI101 started. PID: 7552
+Aircraft AI101 is flying...
+Aircraft AI101 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7550
+
+Aircraft SQ412 started. PID: 7554
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7550
+
+ATC is monitoring all aircraft.
+Press Ctrl+C to simulate an emergency.
+
+ATC received SIGCHLD notification.
+
+All aircraft processes handled.
+ATC Controller shutting down.
+Monitoring completed at: Thu Nov 19 07:30:18 PM UTC 2026
+Monitoring started at: Thu Nov 19 07:42:58 PM UTC 2026
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7659
+
+Aircraft SQ412 started
+Aircraft PID: 7663
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7659
+
+Aircraft BA207 started
+Aircraft PID: 7662
+Aircraft BA207 is flying...
+Aircraft BA207 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7659
+
+Aircraft AI101 started
+Aircraft PID: 7661
+Aircraft AI101 is flying...
+Aircraft AI101 completed flight
+===== AEROSYNC AIR TRAFFIC CONTROL =====
+ATC Controller PID: 7659
+
+All aircraft have completed their flights.
+ATC Controller shutting down.
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7670
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7670
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7670
+
+===== AEROSYNC IPC SYSTEM =====
+ATC Controller PID: 7670
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7672
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7673
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7674
+Status: Flight Started
+
+ATC RECEIVED MESSAGE
+Aircraft: AI101
+Aircraft PID: 7672
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: BA207
+Aircraft PID: 7673
+Status: Flight Completed
+
+ATC RECEIVED MESSAGE
+Aircraft: SQ412
+Aircraft PID: 7674
+Status: Flight Completed
+
+All aircraft reports received.
+ATC Controller shutting down.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7677
+
+Aircraft BA207 started. PID: 7680
+Aircraft BA207 is flying...
+Aircraft BA207 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7677
+
+Aircraft AI101 started. PID: 7679
+Aircraft AI101 is flying...
+Aircraft AI101 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7677
+
+Aircraft SQ412 started. PID: 7681
+Aircraft SQ412 is flying...
+Aircraft SQ412 completed its flight.
+
+===== AEROSYNC SIGNAL HANDLING =====
+ATC Controller PID: 7677
+
+ATC is monitoring all aircraft.
+Press Ctrl+C to simulate an emergency.
+
+ATC received SIGCHLD notification.
+
+All aircraft processes handled.
+ATC Controller shutting down.
+Monitoring completed at: Thu Nov 19 07:43:15 PM UTC 2026

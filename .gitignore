@@ -1,0 +1,11 @@
+# Compiled executable files
+/aerosync
+/aerosync_ipc
+/aerosync_menu
+/aerosync_signals
+
+# Object files
+*.o
+
+# Temporary files
+*.tmp
