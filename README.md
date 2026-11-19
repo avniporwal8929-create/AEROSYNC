@@ -132,7 +132,7 @@ The objective of AEROSYNC is to gain practical experience with Linux system prog
 - More advanced process coordination
 - Interactive simulation controls
 
-## ⚠️Disclaimer
+## Disclaimer
 
 AEROSYNC is an educational Operating Systems simulation project. It is not intended for real-world air traffic control or aviation operations.
 
@@ -146,6 +146,6 @@ GitHub: [@avniporwal8929-create](https://github.com/avniporwal8929-create)
 
 ---
 
-⭐ If you find this project interesting, consider starring the repository!
+If you find this project interesting, consider starring the repository!
 
 **AEROSYNC – Simulating the Systems Behind Air Traffic Control.**
