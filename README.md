@@ -1,107 +1,151 @@
-# AEROSYNC – Air Traffic Control System
+# AEROSYNC – Air Traffic Control Simulation
+<img width="959" height="563" alt="image" src="https://github.com/user-attachments/assets/1addbc4c-f584-4654-a1ee-7612339eca07" />
 
-## 1. Project Overview
 
-AEROSYNC is a Unix-based Air Traffic Control simulation system developed using C programming and Shell Scripting.
+**A Linux-based Air Traffic Control Simulation using C Programming and Operating Systems Concepts.**
 
-The project demonstrates important Unix operating system concepts through aircraft monitoring and execution of independent modules.
+AEROSYNC is a menu-driven simulation project developed to demonstrate fundamental Operating Systems concepts through an Air Traffic Control (ATC) environment.
 
-## 2. Project Objectives
+The project represents aircraft as processes and an ATC controller that coordinates their execution, receives communication messages, handles process-related signals, and performs system monitoring.
 
-- Demonstrate process creation and management.
-- Implement Inter-Process Communication (IPC).
-- Demonstrate signal handling in Unix.
-- Automate monitoring using Shell Scripting.
-- Generate execution logs and flight reports.
+---
 
-## 3. Technologies Used
+## Project Overview
 
-- C Programming
-- GCC Compiler
-- Ubuntu Linux
-- Unix System Calls
-- Bash Shell Scripting
-- Makefile
+AEROSYNC demonstrates how Linux process management and system-level programming concepts can be applied to a simulated air traffic control environment.
 
-## 4. Project Modules
+The project brings together multiple Operating Systems concepts in one interactive terminal-based application.
 
-### Module 1: Process Management
-File: src/main.c
+## Key Features
 
-Demonstrates process management using Unix system calls such as fork() and wait().
+- **Process Management:** Creates and manages aircraft processes using `fork()` and `wait()`.
+- **Inter-Process Communication (IPC):** Demonstrates communication between aircraft processes and the ATC controller.
+- **Signal Handling:** Demonstrates signal handling, including `SIGCHLD` notifications when child processes terminate.
+- **System Monitoring:** Uses a Bash script to execute monitoring tasks.
+- **Monitoring Logs:** Displays saved monitoring information.
+- **Flight Report:** Displays the generated flight execution report.
+- **Interactive Menu:** Provides a simple menu-driven interface to access all project modules.
 
-### Module 2: Inter-Process Communication
-File: src/ipc.c
+## Technologies Used
 
-Demonstrates communication between processes using pipes.
+| Technology | Purpose |
+|---|---|
+| C Programming | Core system programming |
+| Linux / Ubuntu | Development and execution environment |
+| GCC | C compiler |
+| Bash Scripting | System monitoring |
+| Makefile | Build and execution automation |
+| Git & GitHub | Version control and project hosting |
 
-### Module 3: Signal Handling
-File: src/signals.c
+## 📂 Project Structure
 
-Demonstrates handling of Unix signals.
-
-### Module 4: Monitoring Script
-File: scripts/monitor.sh
-
-Automates the monitoring process and generates execution records.
-
-## 5. Aircraft Monitored
-
-1. AI101
-2. BA207
-3. SQ412
-
-## 6. Project Structure
-
+```text
 AEROSYNC/
+│
 ├── src/
 │   ├── main.c
 │   ├── ipc.c
-│   └── signals.c
+│   ├── signals.c
+│   └── menu.c
+│
 ├── include/
 │   └── atc.h
+│
 ├── scripts/
 │   └── monitor.sh
+│
 ├── logs/
 │   └── monitor.log
+│
 ├── reports/
 │   └── flight_report.txt
+│
 ├── Makefile
-└── README.md
+├── README.md
+└── .gitignore
+```
 
-## 7. Compilation
+## Installation and Execution
 
-Open the terminal inside the project directory and execute:
+### 1. Clone the repository
 
-    make
+```bash
+git clone https://github.com/avniporwal8929-create/AEROSYNC.git
+```
 
-This compiles all three C modules using GCC.
+### 2. Navigate to the project directory
 
-## 8. Execution
+```bash
+cd AEROSYNC
+```
 
-To compile and execute the monitoring script:
+### 3. Build the project
 
-    make monitor
+```bash
+make
+```
 
-To remove compiled executable files:
+### 4. Launch the interactive menu
 
-    make clean
+```bash
+make menu
+```
 
-## 9. Output and Reports
+**Requirements:**
+- Ubuntu or another compatible Linux environment
+- GCC compiler
+- GNU Make
+- Bash shell
 
-Execution logs are stored in:
+## Available Modules
 
-    logs/monitor.log
+| Option | Module | Description |
+|---|---|---|
+| 1 | Process Management | Demonstrates aircraft process creation and execution |
+| 2 | IPC Communication | Displays communication between aircraft and controller |
+| 3 | Signal Handling | Demonstrates process signals and child-process notifications |
+| 4 | System Monitoring | Executes the monitoring script |
+| 5 | View Monitoring Logs | Displays monitoring logs |
+| 6 | View Flight Report | Displays the generated flight report |
+| 7 | Exit | Shuts down the application |
 
-The generated flight report is stored in:
+## Operating Systems Concepts Demonstrated
 
-    reports/flight_report.txt
+- Process Creation using `fork()`
+- Process Synchronization using `wait()`
+- Process Identification using `getpid()`
+- Inter-Process Communication
+- Signal Handling using `SIGCHLD`
+- Linux Shell Scripting
+- File Handling and Logging
+- Build Automation using Makefile
 
-The flight report contains aircraft information and the execution status of all three main modules.
+##  Project Objective
 
-## 10. Conclusion
+The objective of AEROSYNC is to gain practical experience with Linux system programming and understand how processes can be created, coordinated, communicate with one another, and respond to operating-system events.
 
-AEROSYNC demonstrates the practical implementation of Unix operating system concepts, including process management, inter-process communication, signal handling, shell scripting, and build automation.
+##  Future Enhancements
 
-The project provides a simulation of aircraft monitoring through independent C modules and automated reporting.
+- Graphical air traffic control dashboard
+- Real-time aircraft status visualization
+- Enhanced monitoring and reporting
+- More advanced process coordination
+- Interactive simulation controls
 
+## ⚠️Disclaimer
+
+AEROSYNC is an educational Operating Systems simulation project. It is not intended for real-world air traffic control or aviation operations.
+
+## Author
+
+**Avni Porwal**
+
+B.Tech – Computer Science and Engineering
+
+GitHub: [@avniporwal8929-create](https://github.com/avniporwal8929-create)
+
+---
+
+⭐ If you find this project interesting, consider starring the repository!
+
+**AEROSYNC – Simulating the Systems Behind Air Traffic Control.**
